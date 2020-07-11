@@ -1,6 +1,11 @@
 ## lorem ipsum
 
+
+# say hello
 def hello():
-    print('hello')
+
+    print('ojciec pijo')
+
 
 hello()
+
