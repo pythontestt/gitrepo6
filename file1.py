@@ -7,5 +7,6 @@ def hello():
     print('ojciec pijo')
 
 
+
 hello()
 
