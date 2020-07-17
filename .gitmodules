@@ -1,0 +1,3 @@
+[submodule "gitrepo7"]
+	path = gitrepo7
+	url = ../gitrepo7
